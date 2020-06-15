@@ -1,5 +1,4 @@
-<h1 align="center">         Doox Scanner  </h1>
-##   vuln and dork scanner 
+<h1 align="center">         Doox Scanner  </h1> 
 
 <p align="center">
       <img alt="logo" src="https://github.com/KSNT2008ARTUR/doox/blob/master/logo.png">
@@ -8,3 +7,5 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/KSNT2008ARTUR/doox">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/KSNT2008ARTUR/doox">
 </p>
+
+## Dork and Vuln scanner

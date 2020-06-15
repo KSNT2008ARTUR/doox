@@ -9,3 +9,6 @@
 </p>
 
 ## Dork and Vuln scanner
+
+### 🚀 Install and run 🚀
+#### 🐧 linux 🐧

@@ -46,4 +46,4 @@ python setup.py install
 
 ### 💰  Donate
 ### blockchain BTC: 12L5mczueMZgHfyEufQEeK4UrsMeC29Gnb
-### QIWI: [💰](qiwi.com/p/79602864432)
+### QIWI: [click💰](https://qiwi.com/p/79602864432)

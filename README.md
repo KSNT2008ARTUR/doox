@@ -1,11 +1,10 @@
 <h1 align="center">         Doox Scanner  </h1>
 ##   vuln and dork scanner 
 
-![doox-scanner](https://github.com/KSNT2008ARTUR/doox/blob/master/logo.png)
-
 <p align="center">
     <br /><br />
   <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/github/license/KSNT2008ARTUR/doox">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/KSNT2008ARTUR/doox">
+  <img alt="logo" src="https://github.com/KSNT2008ARTUR/doox/blob/master/logo.png">
 </p>

@@ -10,6 +10,8 @@
 
 ## Dork and Vuln scanner
 
+[russian🇷🇺](README.md)
+
 ## 🚀 Install and run 🚀
 ###  🐧 linux
 1. install python3 and git
